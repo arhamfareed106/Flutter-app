@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "907011038084",
+    "project_id": "sos-auto-506b5",
+    "storage_bucket": "sos-auto-506b5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907011038084:android:74d7914326f1913def5bd1",
+        "android_client_info": {
+          "package_name": "com.android.sos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBx9ye9Z2A4DWHmYdXKj1Ib_a6RN1GkA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907011038084:android:69dd639a7b5013e2ef5bd1",
+        "android_client_info": {
+          "package_name": "com.example.sos_auto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBx9ye9Z2A4DWHmYdXKj1Ib_a6RN1GkA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907011038084:android:0bc04ff1c7519e4eef5bd1",
+        "android_client_info": {
+          "package_name": "com.sos.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBx9ye9Z2A4DWHmYdXKj1Ib_a6RN1GkA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907011038084:android:0dda8e38234aaa1eef5bd1",
+        "android_client_info": {
+          "package_name": "com.sos.auto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBx9ye9Z2A4DWHmYdXKj1Ib_a6RN1GkA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
